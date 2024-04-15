@@ -1,4 +1,4 @@
-# Nokia_Openshift_demo
+# Openshift_demo
 A java application having a tomcat webserver and mysql database pods using namespace, configMap, secret, persistentVolume, service, label, selector and replicaset.
 
 Pre-requisites:
