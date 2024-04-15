@@ -60,8 +60,11 @@ NAME                                   DESIRED   CURRENT   READY   AGE
 replicaset.apps/mysqldb-replicaset     1         1         1       6d12h
 replicaset.apps/tomcatweb-replicaset   2         2         2       6d12h
 ```
+![image](https://github.com/HAMZAemi/demo_openshift/assets/95679729/3fb64295-382b-4c9f-9fa9-953166168822)
 ***i.e. http://localhost:30008/LoginWebApp/***
 
 *LoginWebApp* is your application name.
 
 ![alt text](https://github.com/ranjit4github/kubernetes_demo_project/blob/master/Screenshot%202020-02-20%20at%209.43.33%20PM.png)
+
+
