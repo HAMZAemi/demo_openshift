@@ -65,6 +65,7 @@ replicaset.apps/tomcatweb-replicaset   2         2         2       6d12h
 
 *LoginWebApp* is your application name.
 
-![alt text](https://github.com/ranjit4github/kubernetes_demo_project/blob/master/Screenshot%202020-02-20%20at%209.43.33%20PM.png)
+![image](https://github.com/HAMZAemi/demo_openshift/assets/95679729/d5d72493-c4cd-4c50-8888-d31f392ed90a)
+
 
 
